@@ -218,3 +218,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ======================================
+# Configuration du projet ML/DL
+# ======================================
+
+# Fichiers sensibles
+*.env
+secrets.*
+*.pem
+*.key
+
+# Données volumineuses
+/data/*
+!/data/.gitkeep
+!/data/*.dvc
+
+# Modèles entraînés
+/models/*
+!/models/.gitkeep
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.h5
+*.safetensors
+*.onnx
+
+# Fichiers générés par MLflow
+mlruns/
+
