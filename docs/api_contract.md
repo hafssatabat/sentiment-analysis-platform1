@@ -8,6 +8,8 @@ Implémentation prévue dans SAP-39, le squelette actuel renvoie des valeurs fac
 - Format des échanges : JSON
 - Labels possibles : `negative` (0), `neutral` (1), `positive` (2)
 - `score` : score de confiance du modèle, entre 0 et 1
+- `date` : date et heure de la prédiction au format ISO 8601
+  (exemple : `2026-11-15T10:30:00`, sans indication de fuseau horaire)
 
 ## 1. GET /health
 
