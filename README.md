@@ -69,3 +69,8 @@ Chaque membre travaille sur une branche dédiée à sa tâche Jira. Les modifica
 ## Collaboration
 
 Ce projet est développé en équipe avec Git et GitHub.
+
+## Organisation du projet
+
+Le développement est organisé en branches de fonctionnalités.
+Les modifications sont examinées au moyen de Pull Requests.
