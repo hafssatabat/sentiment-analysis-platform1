@@ -66,3 +66,6 @@ sentiment-analysis-platform/
 Le projet est développé de manière collaborative avec Git et GitHub.
 
 Chaque membre travaille sur une branche dédiée à sa tâche Jira. Les modifications sont ensuite intégrées à la branche principale `main` à travers des Pull Requests, après une revue de code par un autre membre de l'équipe.
+## Collaboration
+
+Ce projet est développé en équipe avec Git et GitHub.
